@@ -1,6 +1,4 @@
-package ru.skillbranch.dev_intensive.utils
-
-import ru.skillbranch.dev_intensive.models.User
+package ru.skillbranch.devintensive.utils
 
 object Utils {
     fun parseFullName(fullName:String?) : Pair<String?,String?>{

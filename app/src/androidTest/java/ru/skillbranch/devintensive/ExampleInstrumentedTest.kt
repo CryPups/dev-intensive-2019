@@ -1,4 +1,4 @@
-package ru.skillbranch.dev_intensive
+package ru.skillbranch.devintensive
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
